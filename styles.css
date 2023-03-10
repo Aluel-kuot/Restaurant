@@ -1,0 +1,363 @@
+*body{
+    margin: 0;
+    background-color: whitesmoke;
+}
+.navb{
+    display: flex;
+}
+nav{
+    display: flex;
+}  
+nav a{
+    text-decoration: none; 
+    padding-top: 20px;
+    margin-left: 50%;
+    padding-right:5px;
+}
+.sign{
+    padding: 20px;
+    margin-left: 50%;
+}
+.foodH{
+    color: yellow;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.home{
+    color: yellow;
+}
+.homepage{
+    display: flex;
+    background-color:rgb(250, 245, 246);
+}
+.health{
+    color: yellow;
+}
+.chicken{
+    width: 50%;
+    margin-left: 50%;
+}
+h1{
+    margin-bottom: 25%;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+.order{
+    border: none;
+    border-radius: 30px;
+    background-color:orange;
+    padding: 20px;
+    margin-top: 10%;
+}
+.advert{
+    margin-left: 10%;
+}
+.headings{
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.foodtypes{
+    display: flex;
+}
+.image{
+    background-color: white;
+}
+.img{
+    width: 70%;
+    height: 50%;
+    border: none;
+    border-radius: 120px;    
+}
+.add{
+    border: none;
+    border-radius: 20px;
+    background-color:orange;
+    padding: 20px;
+    margin-top: 10%;
+}
+.icons{
+color: orange;
+}
+.offer{
+    display: flex;
+    background-color: rgb(250, 245, 246);;
+}
+.foods{
+    width:80%;
+    height: 50%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.delivery{
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.menu{
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: orange;
+}
+.menus{
+    border: none;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: orange;
+    margin-top: 10%;
+}
+.qualityfood{
+    margin-top: 5%;
+    margin-left: 30%;
+}
+.favors{
+    display: flex;
+    margin-top: 5%;
+}
+.salads{
+    background-color:white;
+    margin-top: 10%;
+    margin-left: 20%;
+
+}
+.salad{
+    width: 100%;
+    height: 40%;
+    border: none;
+    border-radius: 60px;
+}
+.burger{
+    display: flex;
+}
+.cash{
+    color: orange;
+}
+.buttoncash{
+background-color: orange;
+border: none;
+border-radius: 5px;
+padding: 5px;
+padding-left: 20px;
+margin-left: 20%;
+}
+.icon{
+    color: orange;
+    display: flex;
+    gap: 20px;
+}
+.services{
+    margin-left: 40%;
+}
+.ion{
+    height: 50%;
+    padding: 130px;
+    width: 40%;
+}
+.ions{
+    background-color:whitesmoke;
+}
+h5{
+    margin-bottom: 20%;
+}
+.testimonies{
+    margin-left:35% ;
+    margin-top: 5%;
+}
+.quote{
+    color: orange;
+    margin-top:2%;
+    margin-bottom: 2%;
+    width:20% ;
+}
+.quotes{
+    margin-top: 20%;
+}
+.p2{
+font-size:large;
+font-weight: bolder;
+}
+.p3{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.pictures{
+    display: flex;
+    margin-top: 5%;
+}
+.pics{
+    width: 50%;
+    height: 60%;
+    border: none;
+    border-radius: 150px;
+}
+.pic{
+    margin-left:10%;
+    padding:5px;
+}
+.p5{
+    font-size:large;
+    font-weight: bolder;
+}
+.test{
+    margin-left:35% ;
+}
+.arrows{
+    display: flex;
+    padding-left: 20px;
+    margin-top: 2%;
+}
+.but1{
+  padding: 10px;  
+}
+.but2{
+    margin-left: 20px;
+    background-color: orange;
+    padding:10px;
+}
+.phone{
+    display: flex;
+    background-color:rgb(250, 245, 246);
+    margin-top: 5%;
+}
+.pho{
+height: 100%;
+width: 90%;
+}
+.phon{
+    margin: 5% 10% 10%;
+}
+.allhere{ 
+    font-family: 'Gloock', serif;
+    font-size: x-large;
+}
+.app{
+    margin: 15% 10% 5%;
+}
+.google{
+width: 30%;
+height: 30%;
+}
+.apps{
+    display: flex;
+    margin-top: 5%;
+}
+.logo{
+    background-color: black;
+    color: aliceblue;
+    padding-left:10%;
+    border: none;
+    border-radius: 10px;
+}
+.logos{
+    background-color: black;
+    color: aliceblue;
+    padding-left:10%;
+    margin-left: 5%;
+    border: none;
+    border-radius: 10px;
+}
+.news{
+    display: flex;
+    background-color:rgb(250, 245, 246 );
+}
+.subscribe{
+}
+.subs{
+    margin-left: 50%;
+    margin-top: 10%;
+    
+}
+footer{
+    display: flex;
+    margin-top: 5%;
+    background-color: black;
+    color: white;
+}
+ul {
+    list-style: none;
+}
+.footer{
+    padding: 40px;
+}
+h4{
+    padding: 40px;
+}
+.sub{
+    font-weight: bolder;
+    font-size: x-large;
+    font-family: 'Gloock', serif;
+}
+.end{
+    display: flex;
+    background-color: #ffff00;
+    padding: 20px;
+    padding-left: 30%;
+}
+.copy{
+    padding: 30px;
+}
+.faceb{
+    color: #ffff00;
+}
+@media screen and (max-width:900px){
+    .end{
+        display: flex;
+        background-color: #ffff00;
+        padding: 10px;
+        padding-left:auto;
+    }
+    nav a{
+        text-decoration: none; 
+        padding-top: auto;
+        margin-left: auto;
+        padding-right:10px;
+    }
+    .sign{
+        padding: auto;
+        margin-left: 20%;
+    }
+    .add{
+        border: none;
+        border-radius: 20px;
+        background-color:orange;
+        padding: 10px;
+        margin-top:auto;
+    }
+    .order{
+        border: none;
+        border-radius: 30px;
+        background-color:orange;
+        padding: 5px;
+        margin-top: auto;
+    }
+    .headings{
+        margin-left: 30%;
+        margin-top: 5%;
+    }
+    .footer{
+        padding: 30px;
+    }
+    .end{
+        display: flex;
+        background-color: #ffff00;
+        padding:auto;
+        padding-left:auto;
+    }
+    .copy{
+        padding-left:auto;
+    }
+    .logo{
+    background-color: black;
+    color: aliceblue;
+    padding-left:10%;
+    border: none;
+    border-radius: 10px;
+}
+.logos{
+    background-color: black;
+    color: aliceblue;
+    padding-left:10%;
+    margin-left: 5%;
+    border: none;
+    border-radius: 10px;
+}
+}
